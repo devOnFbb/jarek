@@ -1,5 +1,5 @@
 <?php 
 
-	echo 'Hello Du version 2';
+	echo 'Hello Du - Version 1';
 
 ?>
