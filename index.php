@@ -1,5 +1,3 @@
 <?php
-
-	echo phpinfo();
-	echo Version 'geändert directy in master';
+	echo 'Version geändert directy in master';
 ?>
